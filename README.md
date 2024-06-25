@@ -20,7 +20,7 @@ To preprocess the data, we provide an automated pipeline that does the following
 
 2. Z-score normalizes each patient image to itself to uniformize the dataset
 
-3. Re-organizez the dataset as to create a single contiguous 3D array containing each slice within the dataset, which is then saved as a .pt tensor file for model import.
+3. Re-organizes the dataset as to create a single contiguous 3D array containing each slice within the dataset, which is then saved as a .pt tensor file for model import.
 
 ### Analysis
 The file ____ contains our model and training loop for generating our results at the click of a button:
