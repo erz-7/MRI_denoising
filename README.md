@@ -3,6 +3,12 @@
 This repo contains a Deep learning pipeline to denoise T1-weighted low-field MRI acquisitions. The pipeline used to generate the results supporting the conclusions in our manuscript titled "DenoiseNET: a generalizable approach to denoising low-field cerebellar MR acquisitions". This project can be reproduced by downloading the public data as described below and running our code with a single "run all" command.
 (DOI: coming soon!) 
 
+Requirements:
+- Python 3.11.7
+- Pip install requirements.txt
+- Cuda
+- Windows (Unix coming soon, or you can just edit lines with directory paths)
+
 ### Overview of repo pipeline:
 ![Screenshot 2024-06-28 102622](https://github.com/erz-7/MRI_denoising/assets/74198413/17194216-360c-4dfe-8599-fa68fffaffaf)
 
