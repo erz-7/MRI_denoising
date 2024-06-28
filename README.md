@@ -1,8 +1,8 @@
-# MRI_denoising
+### MRI_denoising
 Deep learning pipeline to denoise T1-weighted low-field MRI acquisitions.
 This repo contains the pipeline used to generate the results supporting the conclusions in our manuscript titled "DenoiseNET: a generalizable approach to denoising low-field cerebellar MR acquisitions" (DOI: coming soon!)
 
-Overview of repo pipeline:
+# Overview of repo pipeline:
 ![Screenshot 2024-06-28 102622](https://github.com/erz-7/MRI_denoising/assets/74198413/17194216-360c-4dfe-8599-fa68fffaffaf)
 
 ### Data availability
@@ -33,3 +33,7 @@ The file ____ contains our model and training loop for generating our results at
 2.
 
 3.
+
+# Network architecture
+
+![Picture1](https://github.com/erz-7/MRI_denoising/assets/74198413/fe8ad133-8c51-4d90-99b9-b978c901d646)
