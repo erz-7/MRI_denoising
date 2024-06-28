@@ -3,8 +3,7 @@ Deep learning pipeline to denoise T1-weighted low-field MRI acquisitions.
 This repo contains the pipeline used to generate the results supporting the conclusions in our manuscript titled __________________________ DOI:
 
 Overview of repo pipeline:
-![image](https://github.com/erz-7/MRI_denoising/assets/74198413/27505be6-1ab8-4c2f-b114-327ae47467c3)
-
+![Screenshot 2024-06-28 102622](https://github.com/erz-7/MRI_denoising/assets/74198413/17194216-360c-4dfe-8599-fa68fffaffaf)
 
 ### Data availability
 In this article, we used three publicly available MRI datasets:
