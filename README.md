@@ -23,14 +23,17 @@ In this article, we used three publicly available MRI datasets:
 
 Access to these datasets may need to be requested from the initial authors via e-mail correspondence.
 To re-produce our results, downlaod these three datasets and store them in separate folders.
+
 project_folder/
-├── IXI/
-├── FastMRI/
+└── IXI/
+project_folder/
+└── FastMRI/
+project_folder/
 └── M4Raw/
 
 
 ### Preprocessing
-To preprocess the data, we provide an automated pipeline that does the following:
+To preprocess the data, we provide an automated pipeline within the file **dataproc_MBP_AI.ipynb** that does the following:
 
 1. Determines the file format of the input data (DICOM/h5/NIFTI formats currently supported)
 
@@ -40,7 +43,7 @@ To preprocess the data, we provide an automated pipeline that does the following
 
 
 ### Analysis
-The file ____ contains our model and training loop for generating our results at the click of a button:
+The file **MR_Denoiser_submission** contains our model and training loop for generating our results at the click of a button:
 
 1. 
 
