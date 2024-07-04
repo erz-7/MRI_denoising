@@ -24,14 +24,11 @@ In this article, we used three publicly available MRI datasets:
 Access to these datasets may need to be requested from the initial authors via e-mail correspondence.
 To re-produce our results, downlaod these three datasets and store them in separate folders.
 
-project_folder/
-└── IXI/
+project_folder/└── IXI/
 
-project_folder/
-└── FastMRI/
+project_folder/└── FastMRI/
 
-project_folder/
-└── M4Raw/
+project_folder/└── M4Raw/
 
 
 ### Preprocessing
