@@ -26,8 +26,10 @@ To re-produce our results, downlaod these three datasets and store them in separ
 
 project_folder/
 └── IXI/
+
 project_folder/
 └── FastMRI/
+
 project_folder/
 └── M4Raw/
 
